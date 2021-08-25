@@ -1,2 +1,1 @@
-# LPP_LAB
-Operation Research Lab - LPP 
+# Operation Research Lab - LPP 
